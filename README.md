@@ -9,7 +9,7 @@ The project shall consist of a thorough Exploratory Data Analysis (EDA). After t
 
 Finally I will consider to represent the findings in Tableau as well.
 
-Challenges may be imbalance of data, finding  the right model and interpreting it correctly. 
+Challenges may be imbalance of data, scaling if needed based on the model, finding  the right model and interpreting it correctly. 
 
 Submission
  I will hand in a clean and structured jupyter notebook and potentially a tableau dashboard that illustrates the most important findings.
