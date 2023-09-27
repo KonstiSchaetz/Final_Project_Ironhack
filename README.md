@@ -32,7 +32,8 @@ I will hand in a clean and structured jupyter notebook and potentially a tableau
 2. Feature Engineering
 3. Compare different forecasting models
 4. Analysis and Interpretation
-5. Slide Building
+5. (Tableau)
+6. Slide Building
 
 
 
