@@ -26,4 +26,13 @@ Challenges may be imbalance of data, scaling if needed based on the model, findi
 I will hand in a clean and structured jupyter notebook and potentially a tableau dashboard that illustrates the most important findings.
 
 
+**Process**
+
+1. EDA
+2. Feature Engineering
+3. Compare different forecasting models
+4. Analysis and Interpretation
+5. Slide Building
+
+
 
