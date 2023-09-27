@@ -4,7 +4,9 @@
 
 My dataset stems from the company Vandelay Industries and refers to the visitors of their website. The dataset is available on github.com (https://github.com/jainds/eda-for-conversion-rate-dataset) and consits of 316.200 x 6 rows and columns. 
 
-The sheet is cleaned up already, containing no nulls so far. The goal of the project will be to determine the conversion rate of the website based on the both numerical and categorical features:
+The sheet is cleaned up already, containing no nulls so far.
+
+The goal of the project will be to determine the conversion rate of the website based on the both numerical and categorical features:
 - age,
 - country,
 - new_user,
